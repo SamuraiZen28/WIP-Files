@@ -1,6 +1,5 @@
 const {MessageEmbed} = require('discord.js');
 const i = require('./../../colors');
-let { MessageButton , MessageActionRow } = require(`discord-buttons`)
 
 module.exports = {
   name: "serveravatar",
