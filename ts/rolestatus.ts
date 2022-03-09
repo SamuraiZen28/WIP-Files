@@ -10,5 +10,7 @@ interface Task {
 }
 
 let notStartedStatus: RoleStatusEnum = RoleStatusEnum.NotStarted;
+let inProgressStatus: RoleStatusEnum = RoleStatusEnum.InProgress;
+let doneStatus: RoleStatusEnim = RoleStatusEnum.Done;
 
 //.......
